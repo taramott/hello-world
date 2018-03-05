@@ -1,4 +1,4 @@
 # hello-world
-CodeFirst: Girls
+CodeFirst:
 I love toast 
 
